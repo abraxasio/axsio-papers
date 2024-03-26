@@ -13,5 +13,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.PAT_FOR_PRIVATE_REPO }}
-          repository: abraxasio/axsio-paper-site
+          repository: abraxasio/axsio-papers-site
           event-type: update-review-content
