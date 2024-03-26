@@ -9,3 +9,5 @@ Populates contents of papers website.
 - Create a PR.
 
 On merge of the PR, some magic happens and it should be on the website within a minute.
+
+Enjoy!
