@@ -1,10 +1,10 @@
 ---
-title: “Reflections on Trusting Trust”
+title: Reflections on Trusting Trust
 date: 2024-03-28
-author: “rfhacker”
-authors: “Ken “Thompson
-journal: “Communications “of the ACM
-link: "https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf"
+author: rfhacker
+authors: Ken Thompson
+journal: Communications of the ACM
+link: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
 ---
 ## Paper Notes
 
