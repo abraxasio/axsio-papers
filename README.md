@@ -4,6 +4,7 @@ Populates contents of papers website.
 # How to use
 - Make a copy of TEMPLATE.md and name it according to the convention `yyyy-mm-dd_Short_Title.md`.
   - DO NOT USE SPACES
+  - DO NOT PUT QUOTES AROUND FIELDS AT THE TOP.
   - You MUST name the file with .md at the end.
 - Fill in the various sections and save it in the `/reviews/` folder.
 - Create a PR.
