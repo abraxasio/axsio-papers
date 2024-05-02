@@ -1,11 +1,11 @@
 ---
-title: "Synthesis of Goldene Comprising Single-Atom Layer Gold"
+title: Synthesis of Goldene Comprising Single-Atom Layer Gold
 publication_date: 2024-03-18
 date: 2024-04-29
-author: "Patrick Garrity"
-authors: "Shun Kashiwaya, Yuchen Shi, Jun Lu, Davide G. Sangiovanni, Grzegorz Greczynski, Martin Magnuson, Mike Andersson, Johanna Rosen, Lars Hultman"
-journal: "Nature Synthesis"
-link: "https://doi.org/10.1038/s44160-024-00518-4"
+author: Patrick Garrity
+authors: Shun Kashiwaya, Yuchen Shi, Jun Lu, Davide G. Sangiovanni, Grzegorz Greczynski, Martin Magnuson, Mike Andersson, Johanna Rosen, Lars Hultman
+journal: Nature Synthesis
+link: https://doi.org/10.1038/s44160-024-00518-4
 ---
 ## Paper Notes
 
