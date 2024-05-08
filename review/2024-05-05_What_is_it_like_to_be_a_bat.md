@@ -1,7 +1,7 @@
 ---
 title: What is it like to be a bat?
 date: 2024-05-05
-publication_date: 06-01-1974
+publication_date: 1974-01-06
 author: Stewart Olson
 authors: Thomas Nagel
 journal: The Philosophical Review
